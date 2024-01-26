@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "oc-server": "^0.4.5"
+  }
+}
